@@ -1,0 +1,10 @@
+framework module BRSlideView {
+  umbrella header "BRSlideView.h"
+
+  export *
+  module * { export * }
+}
+
+module BRSlideView.Swift {
+    header "BRSlideView-Swift.h"
+}
